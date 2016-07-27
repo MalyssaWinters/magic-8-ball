@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "magic-8-ball", "..\..\WebSi
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "62258"
+		SlnRelativePath = "..\..\WebSites\magic-8-ball\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
